@@ -5,14 +5,13 @@
   "homepage": "https://github.com/Bohdan-Makohoniuk/teamWork",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /this-team/"
+    "build": "https://github.com/Bohdan-Makohoniuk/teamWork"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kyzym/this-team.git"
+    "url": "https://github.com/Bohdan-Makohoniuk/teamWork"
   },
   "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/goitacademy/parcel-project-template/issues"
