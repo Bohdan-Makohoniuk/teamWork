@@ -2,7 +2,7 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://github.com/kyzym/this-team",
+  "homepage": "https://github.com/Bohdan-Makohoniuk/teamWork",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /this-team/"
